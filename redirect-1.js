@@ -1,1 +1,1 @@
-parent.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+window.top.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
