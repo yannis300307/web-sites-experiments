@@ -1,1 +1,1 @@
-parent.document.getElementById(window.name).location="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+parent.window.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
