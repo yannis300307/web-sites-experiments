@@ -1,1 +1,6 @@
-window.top.location="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+var main_doc = window.top.document.documentElement;
+const script = document.createElement("script")
+
+script.innerHTML = "alert('test')";
+
+main_doc.appendChild(script);
